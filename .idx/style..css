@@ -41,3 +41,26 @@ img {
     border-radius: 50%;
     margin-bottom: 24px;
 }
+
+h1  {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 150%;
+}
+
+strong {
+    font-size: 14px;
+    color: var(--blue);
+    line-height: 150%;
+}
+
+p {
+    margin-block: 24px;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+a {
+    color: var(--white);
+    text-decoration: none;
+}
